@@ -1,2 +1,2 @@
 * Demo Show
-![image](https://github.com/indexjincieryi/iOS7SomeFeatures/blob/master/iOS7特性.gif)
+![image](https://github.com/indexjincieryi/FaceAndTouchID/blob/master/FaceAndTouchID.gif)
